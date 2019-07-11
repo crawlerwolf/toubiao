@@ -1,0 +1,9 @@
+MySQL.py  连接MySQL数据库
+total_num.txt  获取2017年5月至2018年2月总页数
+toubiao.py 查询程序
+toubiao_info.py  提取信息并将信息存入MySQL数据库
+toubiao_main.py 运行主程序获取2017年5月至2018年2月的数据（启动程序）以抓取完毕
+toubiao_num.txt 已经获取2017年5月至2018年2月的页数
+toubiao_up.py 每日更新程序（启动程序）
+up_total_num.txt  每日更新的总页数
+up_toubiao_num.txt  以获取每日更新的页数
